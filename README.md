@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Sanfor2004.png?=2" width="100%" alt="Ahmed Abdelaziz Profile">
+  <img src="./Sanfor2004-2.png" width="100%" alt="Ahmed Abdelaziz Profile">
 </p>
 
 <h1 align="center">Ahmed Abdelaziz Hanafy</h1>
