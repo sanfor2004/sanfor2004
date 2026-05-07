@@ -114,7 +114,7 @@ May 2023 - Aug 2027 (Present)
   <a href="https://zomzam.com">
     <img src="https://img.shields.io/badge/Digital_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
-  <a href="https://github.com/sanfor2004/sanfor2004/raw/main/Ahmed Abdelaziz Hanafy CV 2026.pdf">
+  <a href="https://github.com/sanfor2004/sanfor2004/raw/main/Ahmed Abdelaziz Hanafy CV.pdf">
     <img src="https://img.shields.io/badge/Curriculum_Vitae-DC2626?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV">
   </a>
 </p>
