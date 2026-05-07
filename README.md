@@ -16,7 +16,7 @@
   <a href="https://zomzam.com">
     <img src="https://img.shields.io/badge/Website-green?style=flat-square&logo=google-chrome" alt="Website">
   </a>
-  <a href="https://github.com/sanfor2004/sanfor2004/raw/main/Ahmed Abdelaziz Hanafy CV 2026.pdf">
+  <a href="https://github.com/sanfor2004/sanfor2004/raw/main/Ahmed Abdelaziz Hanafy CV.pdf">
     <img src="https://img.shields.io/badge/Curriculum_Vitae-red?style=flat-square&logo=adobe-acrobat-reader" alt="Curriculum Vitae">
   </a>
 </p>
