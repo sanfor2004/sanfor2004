@@ -60,19 +60,19 @@ Whether it's building secure systems or designing beautiful experiences, I'm all
 
 ## Professional Tenure
 
-### **Backend Engineer (Part-Time)** @ Skylimit LLC
-**Remote (USA) • Mar 2022 - Present**
-- Architected and led the complete backend overhaul of a key company website, migrating its entire infrastructure from a legacy system to a highly scalable, maintainable foundation that significantly improved site performance and supports future growth.
-- Integrated and managed multiple third-party APIs essential for core business functions, including Plivo and Twilio for building a robust automated SMS communication system, and Stripe to handle all aspects of secure payment processing and subscription management.
-- Developed and maintained bespoke CRM and lead management systems, designing a new, efficient database schema to streamline client data handling, automate key operational workflows, and improve overall data integrity.
-- Analyzed and resolved complex bugs, particularly within Text-to-Speech (TTS) services, requiring deep analysis of API responses and system logic to ensure consistent and reliable audio generation and delivery.
-- Collaborated directly with the client's team to define technical requirements, troubleshoot issues, and provide strategic input on future feature development, leading to a consistent, long-term working relationship built on trust and reliable delivery.
+### **Full Stack Software Engineer** @ Skylimit LLC
+**Sacramento, California, United States • Dec 2022 – May 2026 (3 years 6 months)**
+- Spearheaded the end-to-end modernization of the flagship web platform. By replacing legacy architecture with a high-performance solution, I significantly improved user experience and streamlined long-term maintainability.
+- Engineered a robust integration framework leveraging industry-leading APIs (Plivo, Twilio, Stripe) to enhance real-time communication capabilities and secure payment processing.
+- Designed and deployed a custom CRM and lead-management ecosystem from the ground up. Led a comprehensive data-cleansing initiative to ensure data integrity and drive actionable business intelligence.
+- Optimized automated voice-response systems through rigorous troubleshooting and performance tuning to ensure high-quality audio delivery.
+- Served as long-term strategic consultant, ensuring the stability and scalability of mission-critical legacy infrastructure while optimizing technical debt and architecting seamless cross-platform interoperability.
 
-### **Backend Developer** @ Company for Tech (via Fiverr)
-**Remote (Egypt) • Feb 2024 - Sep 2024 (8 months)**
-- Developed a custom PHP WebSocket server from scratch to enable real-time communication for a client's application, independently handling low-level TCP socket connections and implementing the full WebSocket protocol (RFC 6455).
-- Managed the complex process of message framing and handling fragmented messages, including parsing and creating WebSocket data packets, managing various message types, and correctly reassembling fragmented data streams.
-- Significantly improved the application's interactivity through deep understanding of network programming and building robust backend systems.
+### **Junior Software Engineer** @ Fiverr
+**Alexandria, Egypt • Remote • Mar 2021 – Dec 2022 (1 year 10 months)**
+- Thrived as a Remote Freelance Software Developer, strategically building a personal brand and portfolio that secured 10+ international clients.
+- Leveraged this entrepreneurial success to transition into a dedicated Software Developer role at Skylimit LLC.
+- Delivered custom software solutions, workflow automation, and technical consulting services to clients across multiple industries and geographic regions.
 
 ---
 
