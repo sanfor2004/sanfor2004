@@ -25,8 +25,8 @@
 
 ## Executive Summary
 
-Hey! I'm Ahmed, but you can call me Sanfor.
-I'm a Full Stack Software Engineer  with hands-on experience in JavaScript, PHP, Python, Go Lang And a little of Java. But I don't just code—I'm also deeply involved in the design process, crafting intuitive UI/UX in Figma for every project. Plus, I love to draw, which gives me a unique perspective when building user-friendly interfaces.
+Hey! I'm Ahmed, but you can call me Sanfor.<br>
+I'm a Full Stack Software Engineer  with hands-on experience in JavaScript, PHP, Python, Go Lang And a little of Java. But I don't just code—I'm also deeply involved in the design process, crafting intuitive UI/UX in Figma for every project. Plus, I love to draw, which gives me a unique perspective when building user-friendly interfaces.<br>
 Whether it's building secure systems or designing beautiful experiences, I'm all about helping businesses work smarter and safer with Love <3.
 
 ---
