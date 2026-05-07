@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="./Github2004.png" width="100%" alt="Ahmed Abdelaziz Profile">
+  <img src="./Sanfor2004.png" width="100%" alt="Ahmed Abdelaziz Profile">
 </p>
 
 <h1 align="center">Ahmed Abdelaziz Hanafy</h1>
 <h3 align="center">Distinguished Software Engineer & Systems Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=FFFFFF&background=31314A&center=true&vCenter=true&width=660&lines=High-Performance+Computing;Backend+Systems+Architecture;Low-Level+Network+Protocols;Uncompromising+Technical+Rigor">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=FFFFFF&background=EE5712&center=true&vCenter=true&width=660&lines=High-Performance+Computing;Backend+Systems+Architecture;Low-Level+Network+Protocols;Uncompromising+Technical+Rigor">
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/zomzam-aar/">
+  <a href="https://www.linkedin.com/in/sanfor2004/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://zomzam.com">
     <img src="https://img.shields.io/badge/Website-green?style=flat-square&logo=google-chrome" alt="Website">
   </a>
-  <a href="https://github.com/zomzam-aar/zomzam-aar/raw/main/Ahmed_HBS_cv.pdf">
+  <a href="https://github.com/sanfor2004/sanfor2004/raw/main/Ahmed Abdelaziz Hanafy CV 2026.pdf">
     <img src="https://img.shields.io/badge/Curriculum_Vitae-red?style=flat-square&logo=adobe-acrobat-reader" alt="Curriculum Vitae">
   </a>
 </p>
@@ -115,16 +115,16 @@ Bachelor's Degree in Business Information Systems
 </p>
 
 <p align="center">
-  <a href="mailto:contact@zomzam.com">
+  <a href="mailto:ahmed@zomzam.com">
     <img src="https://img.shields.io/badge/Official_Correspondence-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/zomzam-aar/">
+  <a href="https://www.linkedin.com/in/sanfor2004/">
     <img src="https://img.shields.io/badge/LinkedIn_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://zomzam.com">
     <img src="https://img.shields.io/badge/Digital_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
-  <a href="https://github.com/zomzam-aar/zomzam-aar/raw/main/Ahmed_HBS_cv.pdf">
+  <a href="https://github.com/sanfor2004/sanfor2004/raw/main/Ahmed Abdelaziz Hanafy CV 2026.pdf">
     <img src="https://img.shields.io/badge/Curriculum_Vitae-DC2626?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV">
   </a>
 </p>
