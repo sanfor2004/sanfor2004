@@ -17,7 +17,7 @@
     <img src="https://raw.githubusercontent.com/sanfor2004/sanfor2004/refs/heads/main/zomzam-btn-1.png" alt="Website">
   </a>
   <a href="https://github.com/sanfor2004/sanfor2004/raw/main/Ahmed Abdelaziz Hanafy CV.pdf">
-    <img src="https://raw.githubusercontent.com/sanfor2004/sanfor2004/refs/heads/main/cv-btn-1.png" alt="Curriculum Vitae">
+    <img src="https://raw.githubusercontent.com/sanfor2004/sanfor2004/refs/heads/main/cv-btn-2.png" alt="Curriculum Vitae">
   </a>
 </p>
 
