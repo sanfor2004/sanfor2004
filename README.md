@@ -23,15 +23,17 @@
 
 ---
 
-## 🏛️ Executive Summary
+## Executive Summary
 
-I am a rigorous Software Engineer and technical lead specializing in high-performance computing, complex backend infrastructural design, and intelligent workflow automation. Approaching computational problems with absolute academic precision, I architect highly scalable, API-centric environments and engineer pristine low-level network communications (such as raw WebSockets and TCP protocols). 
+Full-Stack Software Developer & UI/UX Designer specializing in custom application development and intelligent automation systems for small and medium businesses. My technical journey, beginning at age 13, spans full-stack development with Python, PHP, JavaScript, and systems programming (C/C++, Assembly), enabling me to build efficient, scalable solutions from frontend to backend.
 
-As the founder of **zomzam**, I bring an uncompromising, elite standard to the software development lifecycle—ensuring rigid system integrity, robust security models, and world-class, seamless user experiences.
+I bring a comprehensive product vision by combining hands-on development with UI/UX design in Figma, ensuring intuitive and user-friendly experiences across every project. My artistic background in drawing further enhances my ability to craft interfaces that are both beautiful and functional.
+
+As the founder of **zomzam**, I'm driven by innovation and client success, passionate about delivering impactful digital solutions that help businesses work smarter through custom software and workflow automation.
 
 ---
 
-## 🔬 Architectural Competencies
+## Architectural Competencies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,python,php,java,golang,html,css" alt="Languages" />
@@ -50,30 +52,33 @@ As the founder of **zomzam**, I bring an uncompromising, elite standard to the s
 - **Frontend Architecture:** JavaScript, HTML5, CSS3
 
 ### Frameworks & Infrastructure
-- **Frameworks & Libraries:** Laravel, Django, React, Node.js, Three.js, Chart.js, Android SDK, P5.js, Rive
-- **Distributions & Data:** MySQL, PostgreSQL, MongoDB, AWS, Google Cloud Platform (GCP), Digital Ocean
-- **Protocols & Design:** RESTful APIs, WebSockets, Webhooks, SSE, OAuth, HTTPS, TCP/IP, Strict MVC Pattern
+- **Frameworks & Libraries:** Laravel, Django, React, Node.js, Still.js, Three.js, Chart.js, Android SDK, P5.js, Rive
+- **Databases:** MySQL, PostgreSQL, MongoDB, Google Cloud SQL
+- **Cloud Platforms:** AWS, Google Cloud Platform, Hostinger, Digital Ocean
+- **Tools & DevOps:** Docker, Git, Sublime (Text/Merge), VS Code, Postman, Figma, Krita
+- **Protocols & Design:** RESTful APIs, WebSockets, Webhooks, Server-Sent Events (SSE), OAuth, HTTP, SSH, FTP, TCP/IP, Strict MVC Pattern
 
 ---
 
-## 💼 Professional Tenure
+## Professional Tenure
 
-### **Backend Engineer (Part-Time)** @ SkyLimit LLC
+### **Backend Engineer (Part-Time)** @ Skylimit LLC
 **Remote (USA) • Mar 2022 - Present**
-- Architected and orchestrated the comprehensive backend migration of a core enterprise application from a deprecated legacy structure to a highly scalable, maintainable infrastructure.
-- Integrated absolute business-critical APIs (Plivo, Twilio, Stripe) ensuring flawless execution of automated communications, secure cryptographic payments, and subscription lifecycles.
-- Engineered a pristine bespoke CRM and lead management system supported by an optimized, relationally-perfect database schema, enforcing operational workflow automation.
-- Resolved systemic backend bottlenecks within native Text-to-Speech (TTS) services through profound analysis of API payloads and rigorous pipeline logic optimization.
+- Architected and led the complete backend overhaul of a key company website, migrating its entire infrastructure from a legacy system to a highly scalable, maintainable foundation that significantly improved site performance and supports future growth.
+- Integrated and managed multiple third-party APIs essential for core business functions, including Plivo and Twilio for building a robust automated SMS communication system, and Stripe to handle all aspects of secure payment processing and subscription management.
+- Developed and maintained bespoke CRM and lead management systems, designing a new, efficient database schema to streamline client data handling, automate key operational workflows, and improve overall data integrity.
+- Analyzed and resolved complex bugs, particularly within Text-to-Speech (TTS) services, requiring deep analysis of API responses and system logic to ensure consistent and reliable audio generation and delivery.
+- Collaborated directly with the client's team to define technical requirements, troubleshoot issues, and provide strategic input on future feature development, leading to a consistent, long-term working relationship built on trust and reliable delivery.
 
-### **PHP Backend Developer / Network Programmer** @ Company for Tech
-**Remote (Egypt) • Feb 2024 - Sep 2024**
-- Engineered a custom PHP WebSocket server natively from profound first principles to facilitate real-time, ultra-low-latency communication for a high-concurrency client application.
-- Independently dictated low-level TCP socket connections and fundamentally implemented the WebSocket protocol (RFC 6455) without reliance on abstracted third-party proxy libraries.
-- Forged robust logic architectures managing payload fragmentation, comprehensive message framing, and the flawless reassembly of fragmented data streams.
+### **Backend Developer** @ Company for Tech (via Fiverr)
+**Remote (Egypt) • Feb 2024 - Sep 2024 (8 months)**
+- Developed a custom PHP WebSocket server from scratch to enable real-time communication for a client's application, independently handling low-level TCP socket connections and implementing the full WebSocket protocol (RFC 6455).
+- Managed the complex process of message framing and handling fragmented messages, including parsing and creating WebSocket data packets, managing various message types, and correctly reassembling fragmented data streams.
+- Significantly improved the application's interactivity through deep understanding of network programming and building robust backend systems.
 
 ---
 
-## 🚀 Selected Engineering Works
+## Selected Engineering Works
 
 - **[XGS](https://github.com/zomzam-aar/XGS)** `Python` `⭐ 60` — A highly sophisticated utility engineered to execute rigorous Dorking reconnaissance across standard and deep web (`.onion`) infrastructures.
 - **[Fitness-Coach-Website](https://github.com/zomzam-aar/Fitness-Coach-Website)** `HTML/JS/CSS` — A top-tier, seamlessly responsive Arabic platform integrating bespoke membership packages with precise WhatsApp API booking flows.
@@ -83,32 +88,19 @@ As the founder of **zomzam**, I bring an uncompromising, elite standard to the s
 
 ---
 
-## 🎓 Academic Pursuits
+## Academic Pursuits
 
 **Alexandria University**  
-Bachelor's Degree in Business Information Systems  
-📅 Expected Aug 2027  
+Bachelor's Degree in Business Information System  
+Alexandria, Egypt  
+May 2023 - Aug 2027 (Present)  
 *Scholastic Focus:* Advanced Database Systems, System Architecture, Corporate Solutions Engineering, and Programmatic Workflow Automation.
 
 ---
 
-## 📊 Analytical Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zomzam-aar&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zomzam-aar&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zomzam-aar&theme=default&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
-## 📫 Direct Communication
+## Direct Communication
 
 <p align="center">
   <strong>Prepared to engineer the exceptional.</strong>
