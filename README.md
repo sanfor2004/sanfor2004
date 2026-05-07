@@ -11,13 +11,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanfor2004/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    <img src="https://raw.githubusercontent.com/sanfor2004/sanfor2004/refs/heads/main/linkedin-btn.png" alt="LinkedIn">
   </a>
   <a href="https://zomzam.com">
-    <img src="https://img.shields.io/badge/Website-green?style=flat-square&logo=google-chrome" alt="Website">
+    <img src="https://raw.githubusercontent.com/sanfor2004/sanfor2004/refs/heads/main/zomzam-btn.png" alt="Website">
   </a>
   <a href="https://github.com/sanfor2004/sanfor2004/raw/main/Ahmed Abdelaziz Hanafy CV.pdf">
-    <img src="https://img.shields.io/badge/Curriculum_Vitae-red?style=flat-square&logo=adobe-acrobat-reader" alt="Curriculum Vitae">
+    <img src="https://raw.githubusercontent.com/sanfor2004/sanfor2004/refs/heads/main/cv-btn.png" alt="Curriculum Vitae">
   </a>
 </p>
 
