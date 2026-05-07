@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Ahmed Abdelaziz Hanafy</h1>
-<h3 align="center">Distinguished Software Engineer & Systems Architect</h3>
+<h3 align="center">Distinguished Full Stack Software Engineer & Systems Architect</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=FFFFFF&background=EE5712&center=true&vCenter=true&width=660&lines=High-Performance+Computing;Backend+Systems+Architecture;Low-Level+Network+Protocols;Uncompromising+Technical+Rigor">
@@ -25,11 +25,9 @@
 
 ## Executive Summary
 
-Full-Stack Software Developer & UI/UX Designer specializing in custom application development and intelligent automation systems for small and medium businesses. My technical journey, beginning at age 13, spans full-stack development with Python, PHP, JavaScript, and systems programming (C/C++, Assembly), enabling me to build efficient, scalable solutions from frontend to backend.
-
-I bring a comprehensive product vision by combining hands-on development with UI/UX design in Figma, ensuring intuitive and user-friendly experiences across every project. My artistic background in drawing further enhances my ability to craft interfaces that are both beautiful and functional.
-
-As the founder of **zomzam**, I'm driven by innovation and client success, passionate about delivering impactful digital solutions that help businesses work smarter through custom software and workflow automation.
+Hey! I'm Ahmed, but you can call me Sanfor.
+I'm a Full Stack Software Engineer  with hands-on experience in JavaScript, PHP, Python, Go Lang And a little of Java. But I don't just code—I'm also deeply involved in the design process, crafting intuitive UI/UX in Figma for every project. Plus, I love to draw, which gives me a unique perspective when building user-friendly interfaces.
+Whether it's building secure systems or designing beautiful experiences, I'm all about helping businesses work smarter and safer with Love <3.
 
 ---
 
