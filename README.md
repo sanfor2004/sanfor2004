@@ -26,7 +26,7 @@
 ## Executive Summary
 
 Hey! I'm Ahmed, but you can call me Sanfor.<br>
-I'm a Full Stack Software Engineer  with hands-on experience in JavaScript, PHP, Python, Go Lang And a little of Java. But I don't just code—I'm also deeply involved in the design process, crafting intuitive UI/UX in Figma for every project. Plus, I love to draw, which gives me a unique perspective when building user-friendly interfaces.<br>
+I started coding at 13, and since then I've grown into a Full Stack Software Engineer working across JavaScript, PHP, Python, GoLang, Java, and even low-level systems programming with Assembly. But I don't just code—I'm also deeply involved in the design process, crafting intuitive UI/UX in Figma for every project. Plus, I love to draw, which gives me a unique perspective when building user-friendly interfaces.<br>
 Whether it's building secure systems or designing beautiful experiences, I'm all about helping businesses work smarter and safer with Love <3.
 
 ---
@@ -78,11 +78,13 @@ Whether it's building secure systems or designing beautiful experiences, I'm all
 
 ## Selected Engineering Works
 
-- **[XGS](https://github.com/zomzam-aar/XGS)** `Python` `⭐ 60` — A highly sophisticated utility engineered to execute rigorous Dorking reconnaissance across standard and deep web (`.onion`) infrastructures.
-- **[Fitness-Coach-Website](https://github.com/zomzam-aar/Fitness-Coach-Website)** `HTML/JS/CSS` — A top-tier, seamlessly responsive Arabic platform integrating bespoke membership packages with precise WhatsApp API booking flows.
-- **[XCVE](https://github.com/zomzam-aar/XCVE)** `Python` — A specialized security apparatus bridging directly to `CVE.MITRE.ORG` to perform rapid, hyper-accurate vulnerability identification via CVE schemas.
-- **[Multi-Region-Tag-Translator-i18n](https://github.com/zomzam-aar/Multi-Region-Tag-Translator-i18n)** `JavaScript/PHP` — An elegant algorithmic solution for internationalization (i18n) executing dynamic, strict multi-region content delivery.
-- **[Monster-game](https://github.com/zomzam-aar/Monster-game)** `Java` — A comprehensive software simulation showcasing rigid adherence to robust Object-Oriented Programming (OOP) paradigms and deterministic system architecture.
+- **[XGS](https://github.com/sanfor2004/XGS)** `Python` `⭐ 60` — A highly sophisticated utility engineered to execute rigorous Dorking reconnaissance across standard and deep web (`.onion`) infrastructures.
+- **[Fitness-Coach-Website](https://github.com/sanfor2004/Fitness-Coach-Website)** `HTML/JS/CSS` — A top-tier, seamlessly responsive Arabic platform integrating bespoke membership packages with precise WhatsApp API booking flows.
+- **[XCVE](https://github.com/sanfor2004/XCVE)** `Python` `⭐ 1` — A specialized security apparatus bridging directly to `CVE.MITRE.ORG` to perform rapid, hyper-accurate vulnerability identification via CVE schemas.
+- **[Multi-Region-Tag-Translator-i18n](https://github.com/sanfor2004/Multi-Region-Tag-Translator-i18n)** `JavaScript/PHP` `⭐ 1` — An elegant algorithmic solution for internationalization (i18n) executing dynamic, strict multi-region content delivery.
+- **[Monster-game](https://github.com/sanfor2004/Monster-game)** `Java` — A comprehensive software simulation showcasing rigid adherence to robust Object-Oriented Programming (OOP) paradigms and deterministic system architecture.
+- **[XDGe](https://github.com/sanfor2004/XDGe)** `Python` `⭐ 2` — A precision-engineered directory brute-forcing and gathering tool, driven by advanced Dorking methodology.
+- **[php-hls-streamer](https://github.com/sanfor2004/php-hls-streamer)** `PHP` `⭐ 1` — A minimal, FFmpeg-powered streaming backend delivering iframe-ready HLS video playback.
 
 ---
 
@@ -93,6 +95,19 @@ Bachelor's Degree in Business Information System
 Alexandria, Egypt  
 May 2023 - Aug 2027 (Present)  
 *Scholastic Focus:* Advanced Database Systems, System Architecture, Corporate Solutions Engineering, and Programmatic Workflow Automation.
+
+---
+
+## Languages
+
+- 🇪🇬 **Arabic** — Native speaker
+- 🇬🇧 **English** — B2, Conversational (comfortable reading, writing, and chatting with clients/teams in English)
+
+---
+
+## Interests
+
+Workflow Automation • Custom Software Solutions • UI & UX • SaaS Development • Information Security • Business Solutions • Drawing • Startup Building • Product Development
 
 ---
 
@@ -113,6 +128,9 @@ May 2023 - Aug 2027 (Present)
   </a>
   <a href="https://zomzam.com">
     <img src="https://img.shields.io/badge/Digital_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://tryhackme.com/p/ahmed">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
   <a href="https://github.com/sanfor2004/sanfor2004/raw/main/Ahmed Abdelaziz Hanafy CV.pdf">
     <img src="https://img.shields.io/badge/Curriculum_Vitae-DC2626?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV">
