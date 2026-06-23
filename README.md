@@ -62,9 +62,10 @@ Whether it's building secure systems or designing beautiful experiences, I'm all
 
 ### **Full Stack Software Engineer** @ Skylimit LLC
 **Sacramento, California, United States • Dec 2022 – May 2026 (3 years 6 months)**
+- Designed and deployed a custom CRM and lead-management ecosystem from the ground up.
+  Led to a comprehensive data-cleansing initiative to ensure data integrity and drive actionable business intelligence.
 - Spearheaded the end-to-end modernization of the flagship web platform. By replacing legacy architecture with a high-performance solution, I significantly improved user experience and streamlined long-term maintainability.
 - Engineered a robust integration framework leveraging industry-leading APIs (Plivo, Twilio, Stripe) to enhance real-time communication capabilities and secure payment processing.
-- Designed and deployed a custom CRM and lead-management ecosystem from the ground up. Led a comprehensive data-cleansing initiative to ensure data integrity and drive actionable business intelligence.
 - Optimized automated voice-response systems through rigorous troubleshooting and performance tuning to ensure high-quality audio delivery.
 - Served as long-term strategic consultant, ensuring the stability and scalability of mission-critical legacy infrastructure while optimizing technical debt and architecting seamless cross-platform interoperability.
 
