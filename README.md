@@ -27,7 +27,7 @@ My hands-on background includes Linux, Docker, networking, cloud infrastructure,
 ## Technical toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,typescript,javascript,python,php,SQL,go" alt="C, C++, TypeScript, JavaScript, Python, PHP, and SQL">
+  <img src="https://skillicons.dev/icons?i=c,cpp,typescript,javascript,python,php,go" alt="C, C++, TypeScript, JavaScript, Python, PHP, and GO">
 </p>
 
 <p align="center">
