@@ -2,7 +2,6 @@
   <img src="./Sanfor2004.png" width="100%" alt="Ahmed Abdelaziz Hanafy - Software Engineer">
 </p>
 
-<h1 align="center">Ahmed Abdelaziz Hanafy</h1>
 <h3 align="center">Software Engineer · Systems &amp; Backend Engineering</h3>
 
 <p align="center">
