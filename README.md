@@ -2,18 +2,19 @@
   <img src="./Sanfor2004.png" width="100%" alt="Ahmed Abdelaziz Hanafy - Software Engineer">
 </p>
 
-<h3 align="center">Software Engineer · Systems &amp; Backend Engineering</h3>
+<h3 align="center">Product-Minded Software Engineer · Backend, APIs &amp; Automation</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=FFFFFF&background=EE5712&center=true&vCenter=true&width=660&lines=Reliable+Backend+Services;Systems+%26+Infrastructure;APIs%2C+Integrations+%26+Automation;From+Idea+to+Deployment" alt="Systems and backend engineering specialties">
 </p>
 
 <p align="center">
-  <a href="https://sanfor2004.github.io/">Portfolio</a> ·
+  <a href="https://calendly.com/sanfor2004"><b>Book a free call</b></a> ·
+  <a href="https://sanfor2004.com/">Website</a> ·
   <a href="https://www.linkedin.com/in/sanfor2004/">LinkedIn</a> ·
   <a href="https://github.com/sanfor2004">GitHub</a> ·
   <a href="https://tryhackme.com/p/sanfor2004">TryHackMe</a> ·
-  <a href="mailto:2004.sanfor@gmail.com">Email</a>
+  <a href="mailto:contact@sanfor2004.com">Email</a>
 </p>
 
 ---
@@ -23,6 +24,8 @@
 I'm Ahmed (Sanfor), a systems and backend engineer who builds reliable services, API integrations, automation workflows, and database-backed products. I work comfortably across the full path from an early idea to deployment, with a practical focus on performance, stability, and solving real production problems.
 
 My hands-on background includes Linux, Docker, networking, cloud infrastructure, and production troubleshooting alongside backend development in Node.js, Python, PHP, and SQL.
+
+Right now I build backend systems and automation for clients, and I'm building **Zomzam**, my own product.
 
 ## Technical toolkit
 
@@ -72,16 +75,13 @@ My hands-on background includes Linux, Docker, networking, cloud infrastructure,
 - **[php-hls-streamer](https://github.com/sanfor2004/php-hls-streamer)** — PHP and FFmpeg streaming backend that delivers browser-ready HLS playback.
 - **[Multi-Region-Tag-Translator-i18n](https://github.com/sanfor2004/Multi-Region-Tag-Translator-i18n)** — JavaScript and PHP project for dynamic multi-region content delivery.
 
-## Education & languages
+## Education
 
 **Bachelor's degree in Business Information Systems** · Alexandria University, Alexandria, Egypt
-
-- Arabic — Native
-- English — Upper intermediate
 
 ---
 
 <p align="center">
   Building dependable systems, useful products, and clean technical solutions.<br>
-  <a href="https://sanfor2004.github.io/">Visit my portfolio: sanfor2004.github.io</a>
+  <a href="https://sanfor2004.com/">sanfor2004.com</a> · <a href="https://calendly.com/sanfor2004">Book a free call</a>
 </p>
