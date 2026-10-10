@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://calendly.com/sanfor2004"><b>Book a free call</b></a> ·
+  <a href="https://cal.com/sanfor2004/free-call"><b>Book a free call</b></a> ·
   <a href="https://sanfor2004.com/">Website</a> ·
   <a href="https://www.linkedin.com/in/sanfor2004/">LinkedIn</a> ·
   <a href="https://github.com/sanfor2004">GitHub</a> ·
@@ -83,5 +83,5 @@ Right now I build backend systems and automation for clients, and I'm building *
 
 <p align="center">
   Building dependable systems, useful products, and clean technical solutions.<br>
-  <a href="https://sanfor2004.com/">sanfor2004.com</a> · <a href="https://calendly.com/sanfor2004">Book a free call</a>
+  <a href="https://sanfor2004.com/">sanfor2004.com</a> · <a href="https://cal.com/sanfor2004/free-call">Book a free call</a>
 </p>
